@@ -1,6 +1,6 @@
 # Hey, I'm Charlie Nielsen <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
-[![GitHub](https://img.shields.io/badge/GitHub-HytroN-lightgrey?logo=github&style=for-the-badge)](https://github.com/HytroN) ![](https://komarev.com/ghpvc/?username=HytroN&style=for-the-badge)
+[![GitHub](https://img.shields.io/badge/GitHub-CharlieTN-lightgrey?logo=github&style=for-the-badge)](https://github.com/CharlieTN) ![](https://komarev.com/ghpvc/?username=HytroN&style=for-the-badge)
 
 ### Languages and Tools:
 
